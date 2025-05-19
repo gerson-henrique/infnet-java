@@ -1,1 +1,1 @@
-# infinet-java
+# infnet-java
