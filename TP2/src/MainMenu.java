@@ -44,7 +44,7 @@ public class MainMenu {
             System.out.println("1 - Cadastro e Calculo de nome");
             System.out.println("2 - Calculadora de Média de Notas");
             System.out.println("3 - Conversor de Moedas");
-            System.out.println("4 - Calculadora de Idade em Dias Enunciado");
+            System.out.println("4 - Calculadora de Idade em Dias");
             System.out.println("0 - Voltar");
             System.out.print("Escolha uma opção: ");
             option = scanner.nextInt();
@@ -65,11 +65,12 @@ public class MainMenu {
 
         do {
             System.out.println("\n--- Etapa 2 ---");
-            System.out.println("1 - Cadastro e Calculo de nome");
-            System.out.println("2 - Calculadora de Média de Notas");
-            System.out.println("3 - Conversor de Moedas");
-            System.out.println("4 - Calculadora de Idade em Dias Enunciado");
-            System.out.println("0 - Voltar");
+            System.out.println("1 - Calculadora de Descontos Progressivos");
+            System.out.println("2 - Verificador de Ano Bissexto");
+            System.out.println("3 - Calculadora de Imposto de Renda");
+            System.out.println("4 - Classificação de Triângulos");
+            System.out.println("O - Voltar");
+
             System.out.print("Escolha uma opção: ");
             option = scanner.nextInt();
 
@@ -89,10 +90,10 @@ public class MainMenu {
 
         do {
             System.out.println("\n--- Etapa 2 ---");
-            System.out.println("1 - Cadastro e Calculo de nome");
-            System.out.println("2 - Calculadora de Média de Notas");
-            System.out.println("3 - Conversor de Moedas");
-            System.out.println("4 - Calculadora de Idade em Dias Enunciado");
+            System.out.println("1 - Validador de Senha ");
+            System.out.println("2 - Jogo de Adivinhação");
+            System.out.println("3 - Sequência Numérica Personalizada");
+            System.out.println("4 - Contagem de Palavras");
             System.out.println("0 - Voltar");
             System.out.print("Escolha uma opção: ");
             option = scanner.nextInt();
